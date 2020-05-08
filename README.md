@@ -8,6 +8,8 @@
   
 ## Installation <a name = "installation"></a>
 
+You will need the standard data science libraries found in the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.
+
 ## Project Motivation <a name = "motivation"></a>
 
 ## File Description <a name = "files"></a>
