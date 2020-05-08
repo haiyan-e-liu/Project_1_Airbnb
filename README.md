@@ -8,13 +8,13 @@
   
 ## Installation <a name = "installation"></a>
 
-## Installation <a name = "motivation"></a>
+## Project Motivation <a name = "motivation"></a>
 
-## Installation <a name = "files"></a>
+## File Description <a name = "files"></a>
 
-## Installation <a name = "results"></a>
+## Results <a name = "results"></a>
 
-## Installation <a name = "licensing"></a>
+## Licensing, Authors, and Acknowledgements <a name = "licensing"></a>
   
   
   
