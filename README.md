@@ -11,6 +11,9 @@
 You will need the standard data science libraries found in the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.
 
 ## Project Motivation <a name = "motivation"></a>
+In this project, I aim to answer three business questions: 
+1. How has Airbnb listing price changed over time, both across years and within a single year? 
+2. 
 
 ## File Description <a name = "files"></a>
 
