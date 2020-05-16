@@ -19,7 +19,7 @@ In this project, I aim to answer three business questions regarding house/apartm
 ## File Description <a name = "files"></a>
 The following are the files available in this repository:
 
-AirBnB_Project_1_Analysis.ipynb - a notebook of the analysis performed following the CRISP-DM process
+1. AirBnB_Project_1_Analysis.ipynb - a notebook of the analysis performed following the CRISP-DM process
 
 
 ## Results <a name = "results"></a>
