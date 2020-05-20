@@ -25,8 +25,10 @@ The following are the files available in this repository:
 
 ## Results <a name = "results"></a>
 
+The main findings of the analysis can be found at the [blog post available here](). 
+
 ## Licensing, Authors, and Acknowledgements <a name = "licensing"></a>
   
-  Thanks to AirBnb and Kaggle for the data. The licensing for the data and other descriptive information can be found [here](https://www.kaggle.com/airbnb/seattle).
+Thanks to AirBnb and Kaggle for the data. The licensing for the data and other descriptive information can be found [here](https://www.kaggle.com/airbnb/seattle).
   
   
