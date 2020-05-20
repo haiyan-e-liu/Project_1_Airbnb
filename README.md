@@ -19,13 +19,14 @@ In this project, I aim to answer three business questions regarding house/apartm
 ## File Description <a name = "files"></a>
 The following are the files available in this repository:
 
-1. AirBnB_Project_1_Analysis.ipynb - a notebook of the analysis performed following the CRISP-DM process
+* `AirBnB_Project_1_Analysis.ipynb` - a notebook of the analysis performed following the CRISP-DM process
 
+* `listings` and `reviews` data from the original [Kaggle link](https://www.kaggle.com/airbnb/seattle) are used for this analysis. 
 
 ## Results <a name = "results"></a>
 
 ## Licensing, Authors, and Acknowledgements <a name = "licensing"></a>
   
-  Thanks to AirBnb and Kaggle for the data. The Licensing for the data and other descriptive information can be found [here](https://www.kaggle.com/airbnb/seattle).
+  Thanks to AirBnb and Kaggle for the data. The licensing for the data and other descriptive information can be found [here](https://www.kaggle.com/airbnb/seattle).
   
   
