@@ -26,6 +26,6 @@ The following are the files available in this repository:
 
 ## Licensing, Authors, and Acknowledgements <a name = "licensing"></a>
   
-  
+  Thanks to AirBnb and Kaggle for the data. The Licensing for the data and other descriptive information can be found [here](https://www.kaggle.com/airbnb/seattle).
   
   
