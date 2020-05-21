@@ -20,9 +20,7 @@ In this project, I aim to answer three business questions regarding house/apartm
 
 * `AirBnB_Project_1_Analysis.ipynb` is a notebook of the analysis performed following the CRISP-DM process.
 
-* Data are from the original [Kaggle link](https://www.kaggle.com/airbnb/seattle). `listings` and `calendar` datasets are used for this analysis. 
-  * `calendar` dataset contains home_id, date, availability, and price for the day available
-  * `listings` dataset contains home_id, address, home characteristics, and reviews
+* Data are from the original [Kaggle link](https://www.kaggle.com/airbnb/seattle). `listings` datasets was used for this analysis. This dataset contains home_id, address, home characteristics, date, availability, and price for the day available, and guest reviews.
 
 ## Results <a name = "results"></a>
 
