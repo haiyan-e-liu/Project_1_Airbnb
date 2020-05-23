@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/fantasy5949/26b79e79-a10e-4152-9389-4b98be2da42a/428c17ba-e586-4b88-8eb3-bf3058de76e2/_apis/work/boardbadge/fcafb61d-30c9-4e82-aef9-648a4c409947)](https://dev.azure.com/fantasy5949/26b79e79-a10e-4152-9389-4b98be2da42a/_boards/board/t/428c17ba-e586-4b88-8eb3-bf3058de76e2/Microsoft.RequirementCategory)
 ### Table of Contents
 
   1. [Installation](#installation)
