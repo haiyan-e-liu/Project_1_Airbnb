@@ -14,8 +14,9 @@ You will need the standard data science libraries found in the Anaconda distribu
 In this project, I aim to answer three business questions regarding house/apartment listsing on Airbnb in Seattle, WA, US: 
 1. How has Airbnb listing price on average changed over time, both across years and within a single year? 
 2. How long are the houses listed on Airbnb a year and how has that changed over time? This question allows us to tell whether there are any landlords that list their houses on Airbnb fulltime. 
-3. How are the prices differ across region (neighborhood and zipcode)? Which zipcodes are the most expensive?
-4. How do Airbnb prices respond to holidays? How much do they differ from normal daily average? 
+3. How do Airbnb prices respond to holidays? How much do they differ from normal daily average? 
+4. How are the prices differ across region (neighborhood and zipcode)? Which zipcodes are the most expensive?
+5. What are the most important factors that affect Airbnb homes' price? 
 
 ## File Description <a name = "files"></a>
 
