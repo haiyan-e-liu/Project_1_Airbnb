@@ -17,6 +17,7 @@ In this project, I aim to answer three business questions regarding house/apartm
 3. How do Airbnb prices respond to holidays? How much do they differ from normal daily average? 
 4. How are the prices differ across region (neighborhood and zipcode)? Which zipcodes are the most expensive?
 5. What are the most important factors that affect Airbnb homes' price? 
+6. What types of homes are listed on Airbnb? Hotel, motel, single family homes, apartments or other types? 
 
 ## File Description <a name = "files"></a>
 
