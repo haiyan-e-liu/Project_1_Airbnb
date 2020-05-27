@@ -4,7 +4,7 @@
   2. [Project Motivation](#motivation)
   3. [File Description](#files)
   4. [Results](#results)
-  5. [Acknowledgements](#acknowledgements)
+  5. [Licensing and Acknowledgements](#licensing)
   
 ## Installation <a name = "installation"></a>
 
@@ -29,8 +29,6 @@ In this project, I aim to answer six business questions regarding house/apartmen
 
 The main findings of the analysis can be found at the [blog post available here](). 
 
-## Licensing, Authors, and Acknowledgements <a name = "acknowledgements"></a>
+## Licensing and Acknowledgements <a name = "licensing"></a>
   
-Thanks to Figure Eight Inc. for the data. 
-  
-  
+Thanks to Airbnb and Kaggle for the data. The licensing for the data and other descriptive information can be found [here](https://www.kaggle.com/airbnb/seattle).
