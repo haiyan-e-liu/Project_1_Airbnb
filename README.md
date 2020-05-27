@@ -4,7 +4,7 @@
   2. [Project Motivation](#motivation)
   3. [File Description](#files)
   4. [Results](#results)
-  5. [Licensing, Authors, and Acknowledgements](#licensing)
+  5. [Acknowledgements](#acknowledgements)
   
 ## Installation <a name = "installation"></a>
 
@@ -29,7 +29,7 @@ In this project, I aim to answer six business questions regarding house/apartmen
 
 The main findings of the analysis can be found at the [blog post available here](). 
 
-## Licensing, Authors, and Acknowledgements <a name = "licensing"></a>
+## Licensing, Authors, and Acknowledgements <a name = "acknowledgements"></a>
   
 Thanks to Figure Eight Inc. for the data. 
   
