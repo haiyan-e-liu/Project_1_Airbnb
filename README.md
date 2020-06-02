@@ -16,8 +16,6 @@ In this project, I aim to answer four business questions regarding house/apartme
 2. How long are the houses listed on Airbnb a year and how has that changed over time? This question allows us to tell whether there are any landlords that list their houses on Airbnb fulltime. 
 3. How do Airbnb prices respond to holidays? How much do they differ from normal daily average? 
 4. How are the prices differ across region (neighborhood and zipcode)? Which zipcodes are the most expensive?
-5. What are the most important factors that affect Airbnb homes' price? 
-6. What types of homes are listed on Airbnb? Hotel, motel, single family homes, apartments or other types? 
 
 ## File Description <a name = "files"></a>
 
