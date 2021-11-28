@@ -3,8 +3,7 @@
   1. [Installation](#installation)
   2. [Project Motivation](#motivation)
   3. [File Description](#files)
-  4. [Results](#results)
-  5. [Licensing and Acknowledgements](#licensing)
+  4. [Licensing and Acknowledgements](#licensing)
   
 ## Installation <a name = "installation"></a>
 
@@ -26,10 +25,6 @@ In this project, I aim to answer five business questions regarding house/apartme
   * The `listings` dataset contains home_id, address, neighbourhood, zipcode, home characteristics, date, and guest reviews.
   * The `calendar` data includes four fields: listing_id, date, available, price. 
 The two datasets were merged together to conduct spatial analysis. 
-
-## Results <a name = "results"></a>
-
-The main findings of the analysis can be found at the [blog post available here](). 
 
 ## Licensing and Acknowledgements <a name = "licensing"></a>
   
